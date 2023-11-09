@@ -5,8 +5,8 @@ const WhyRefactory = () => {
     <section className="bg-white dark:bg-gray-900">
       <div className="container px-6 py-10 mx-auto">
         <h1 className="text-2xl font-semibold text-center text-gray-800 capitalize lg:text-3xl dark:text-white">
-          explore our <br /> awesome{" "}
-          <span className="text-blue-500">Components</span>
+          Why you should <br /> Work With{" "}
+          <span className="text-blue-500">Refactory</span>
         </h1>
 
         <div className="grid grid-cols-1 gap-8 mt-8 xl:mt-12 xl:gap-16 md:grid-cols-2 xl:grid-cols-3">
@@ -29,7 +29,7 @@ const WhyRefactory = () => {
             </span>
 
             <h1 className="text-xl font-semibold text-gray-700 capitalize dark:text-white">
-              Copy & paste components
+              QC Approved Products
             </h1>
 
             <p className="text-gray-500 dark:text-gray-300">
@@ -77,7 +77,7 @@ const WhyRefactory = () => {
             </span>
 
             <h1 className="text-xl font-semibold text-gray-700 capitalize dark:text-white">
-              Zero Configuration
+              Stress Free Service
             </h1>
 
             <p className="text-gray-500 dark:text-gray-300">
@@ -125,7 +125,7 @@ const WhyRefactory = () => {
             </span>
 
             <h1 className="text-xl font-semibold text-gray-700 capitalize dark:text-white">
-              Simple & clean designs
+              Simple & clean experience
             </h1>
 
             <p className="text-gray-500 dark:text-gray-300">
