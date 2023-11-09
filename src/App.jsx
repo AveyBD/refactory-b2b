@@ -8,9 +8,10 @@ function App() {
   return (
     <>
       <Hero />
+      <WhyRefactory />
       <JoinUs />
       <SuccessStory />
-      <WhyRefactory />
+
       <Footer />
     </>
   );
