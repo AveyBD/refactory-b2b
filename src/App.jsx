@@ -1,3 +1,4 @@
+
 import Footer from "./components/Footer";
 import Hero from "./components/Hero";
 import JoinUs from "./components/JoinUs";
@@ -7,12 +8,10 @@ import WhyRefactory from "./components/WhyRefactory";
 function App() {
   return (
     <>
-      <Hero />
-      <WhyRefactory />
-      <JoinUs />
-      <SuccessStory />
-
-      <Footer />
+    {/* <Hero/>
+    <WhyRefactory/>
+    <JoinUs/>
+    <SuccessStory/> */}
     </>
   );
 }
